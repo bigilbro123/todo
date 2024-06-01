@@ -10,9 +10,9 @@ const head=document.createElement('h2');
 head.textContent="TO DO LIST";
 mydiv1.appendChild(head)
 
-const image=document.createElement('img');
-image.src='img/images/icon.png';
-head.appendChild(image);
+// const image=document.createElement('img');
+// image.src='img/images/icon.png';
+// head.appendChild(image);
 
 const inputs=document.createElement('input')
 inputs.classList.add('search')
